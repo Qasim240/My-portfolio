@@ -49,6 +49,9 @@ const About = () => {
         <div className="text-center">
         <a class="fw-500 cmn--btn align-items-center gap-2" href="./jsRefresher.pdf"><span class="get__text">Download JavaScript Refresher</span><span></span></a>
         </div>
+        <div className="text-center">
+        <a class="fw-500 cmn--btn align-items-center gap-2" href="./Resume.pdf"><span class="get__text">View My Resume (PDF)</span><span></span></a>
+        </div>
         <div className="container">
           <div className="personal__head text-center">
             <img

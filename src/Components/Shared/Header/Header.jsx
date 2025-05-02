@@ -108,7 +108,7 @@ const Header = () => {
         <div className="header-wrapper">
           <div className="main__logo">
             <Link to={"/"} className="logo">
-              <img src={logo} alt="logo" />
+          <p>Qasim</p>
             </Link>
           </div>
           <ul className={`main-menu ${menuActive ? "active" : ""}`}>

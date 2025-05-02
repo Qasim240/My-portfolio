@@ -46,6 +46,9 @@ const About = () => {
   return (
     <>
       <section className="about__section pt-120 pb-120" id="about">
+        <div className="text-center">
+        <a class="fw-500 cmn--btn align-items-center gap-2" href="./jsRefresher.pdf"><span class="get__text">Download JavaScript Refresher</span><span></span></a>
+        </div>
         <div className="container">
           <div className="personal__head text-center">
             <img
